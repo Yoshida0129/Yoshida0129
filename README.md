@@ -1,4 +1,6 @@
-<h1>Hi there👍</h1>
+# Hi there👍
+[![](https://img.shields.io/badge/Facebook-TatsuyaYoshida0129-3B5998)](https://www.facebook.com/TatsuyaYoshida0129/)
+[![](https://img.shields.io/badge/wantedly-TatsuyaYoshida-7FDAE7)](https://www.wantedly.com/users/77327411)
 
 <details><summary>all commits</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=Yoshida0129&include_all_commits=true&theme=dracula" alt="Yoshida0129's all commit"/>
