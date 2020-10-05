@@ -12,7 +12,5 @@
 </details>
 
 ---
-## favorite my repositories
+## favorite repositories
 [2357gi's dotfiles](https://github.com/2357gi/dotfiles)
-
- └── [Yoshida0129's dotfiles](https://github.com/Yoshida0129/dotfiles)
