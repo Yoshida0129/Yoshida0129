@@ -14,5 +14,8 @@
 </details>
 
 ---
-## favorite repositories
-[2357gi's dotfiles](https://github.com/2357gi/dotfiles)
+## like repositories
+- [2357gi's/dotfiles](https://github.com/2357gi/dotfiles)
+- [neovim/neovim](https://github.com/neovim/neovim)
+- [microsoft/vscode](https://github.com/microsoft/vscode)
+- [flutter/flutter](https://github.com/flutter/flutter)
