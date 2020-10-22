@@ -19,3 +19,4 @@
 - [neovim/neovim](https://github.com/neovim/neovim)
 - [microsoft/vscode](https://github.com/microsoft/vscode)
 - [flutter/flutter](https://github.com/flutter/flutter)
+- [frouriojs/frourio](https://github.com/frouriojs/frourio)
